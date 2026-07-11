@@ -2,9 +2,7 @@
 
 ## About Me
 
-I'm a motivated and enthusiastic Computer Science and Engineering (CSE) graduate with a strong interest in Artificial Intelligence, Machine Learning, Computer Vision, and Software Development.
-
-I enjoy building practical AI solutions, learning new technologies, and solving real-world problems through software.
+Computer Science and Engineering graduate passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Development. I enjoy building AI-driven applications and continuously improving my problem-solving and programming skills through real-world projects.
 
 ---
 
