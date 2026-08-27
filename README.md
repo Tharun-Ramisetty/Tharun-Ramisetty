@@ -1,4 +1,5 @@
 # Hi, I'm Tharun Ramisetty 👋
+Computer Science & Engineering Graduate | Software Developer | AI/ML Enthusiast
 
 ## About Me
 
@@ -8,18 +9,16 @@ Computer Science and Engineering graduate passionate about Artificial Intelligen
 
 ## Technical Skills
 
-- Python
-- Java
-- SQL
-- OpenCV
-- YOLOv8
-- LSTM
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Cloud Computing
-- Git & GitHub
-
+Programming: Python, Java
+Web Development: HTML, CSS
+Databases: SQL, DBMS
+AI & Machine Learning: Machine Learning, Deep Learning, LSTM, YOLOv8
+Computer Vision: OpenCV
+Computer Science Fundamentals: Operating Systems (OS), Computer Networks
+Software Development: SDLC, Agile Development, Debugging, Software Testing
+Cloud & Version Control: Cloud Computing, Git, GitHub
+Internet of Things: IoT
+Microsoft Office: MS Word, MS Excel, MS PowerPoint
 ---
 
 ## Featured Project
