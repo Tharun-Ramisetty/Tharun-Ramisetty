@@ -11,8 +11,10 @@ Computer Science and Engineering graduate passionate about Artificial Intelligen
 
 ### Programming
 
-* Python
 * Java
+* Python
+* C
+* C++
 
 ### Web Development
 
@@ -30,10 +32,6 @@ Computer Science and Engineering graduate passionate about Artificial Intelligen
 * Deep Learning
 * LSTM
 * YOLOv8
-
-### Computer Vision
-
-* OpenCV
 
 ### Computer Science Fundamentals
 
@@ -90,15 +88,6 @@ https://github.com/Tharun-Ramisetty/AI-Powered-Traffic-Prediction-and-Management
 - Cloud Computing – NPTEL
 - Introduction to Internet of Things – NPTEL
 - Visualization Data with R – edX
-
----
-
-## Currently Learning
-
-- Advanced Python
-- Machine Learning
-- Deep Learning
-- Software Development
 
 ---
 
